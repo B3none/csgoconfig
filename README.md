@@ -1,2 +1,2 @@
 # csgoconfig
-Here's my CS:GO config :3
+Here's my CS:GO cfg :3
